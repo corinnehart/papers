@@ -32,4 +32,4 @@ There's more to do, give us more funding.
 This is where the figures go in a draft manuscript.
 
 # Acknowledgements
-We would like to thank the EU funding body for their support. RIP :(
+We would like to thank the EU funding body and Isabella Fornacon-Wood for their support. RIP :(
