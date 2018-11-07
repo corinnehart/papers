@@ -26,3 +26,6 @@ There's more to do, give us more funding.
 
 # Figures
 This is where the figures go in a draft manuscript.
+
+# Acknowledgements
+We would like to thank the EU funding body for their support. RIP :(
