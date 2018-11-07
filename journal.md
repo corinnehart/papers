@@ -2,7 +2,7 @@
 Model measurement comparison of Biomass burning aerosol over W. Africa
 
 # Author
-
+Jane top authour 
 John Smith, University of Edinburgh
 Corinne Johnson-Hart, University of Manchester
 
