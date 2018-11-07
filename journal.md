@@ -14,5 +14,9 @@ John has made some simulations of particle formation using his box model.
 It reproduces the growth in size distribution observed and suggests coagulation as the dominant method of growth.
 
 # Methodlogy
-We used AMS (Allen et al 1998) to measure particle mass and chemical composition.
+We used an AMS (Allen et al 1998) to measure particle mass and chemical composition.
+
+# Conclusions
+We made some ground breaking discovery, aren't we great.
+THere's more to do, give us more funding.
 
