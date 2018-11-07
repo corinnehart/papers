@@ -5,6 +5,9 @@ Model measurement comparison of Biomass burning aerosol over W. Africa
 Corinne Johnson-Hart
 John Smith
 
+# Abstract
+We write this last because it is difficult to do. This is where we summarise the main results so lazy people don't have to read the whole thing but can still reference it.
+
 # Introduction
 Haywood et al (1999) made some great measurements of BBOA over the Sahara. 
 We add to these measurements, with chemical composition data, using an aerosol mass spectrometer (Allen et al 2000).
